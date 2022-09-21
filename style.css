@@ -27,6 +27,11 @@
     align-items: center;
 }
 
+.ul-nav-top li:hover {
+    font-size: 30px;
+    color: blue;
+}
+
 /* =================== Section Middle ==================== */
 
 .section-middle {
