@@ -37,9 +37,14 @@
 .section-middle {
     height: 60vh;
     background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .container-middle-upper {
+    display: flex;
+    justify-content: space-around;
     height: 30vh;
 }
 
